@@ -1,0 +1,11 @@
+*{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url("/images/bg-desktop.svg");
+    width: 1440px;
+}
+
+.content{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
